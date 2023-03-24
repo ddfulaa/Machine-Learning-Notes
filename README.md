@@ -4,3 +4,4 @@ Welcome to my Github repository for the machine learning course at National Univ
 * [The Kernel Trick](https://nbviewer.org/github/ddfulaa/Machine-Learning-Notes/blob/main/Kernel_Trick.ipynb)
 * [Assignment 1 - Classification with the Abalone Set](https://nbviewer.org/github/ddfulaa/Machine-Learning-Notes/blob/main/Machine%20Learning%20-%20Assignment%201%20-%20Classification%20-%20Abalones.ipynb)
 * [Support Vector Machines - Spanish](https://nbviewer.org/github/ddfulaa/Machine-Learning-Notes/blob/main/Support_Vector_Machines_(SVMs)_ES.ipynb)
+* [Support Vector Machines - English](https://nbviewer.org/github/ddfulaa/Machine-Learning-Notes/blob/main/Support_Vector_Machines_(SVMs).ipynb)
